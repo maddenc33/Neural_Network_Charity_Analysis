@@ -54,10 +54,11 @@ A foundation, Alphabet Soup, wants to predict where to make investments.  The go
 
 ## Summary
 
-The best method I was able to find is shown below:
+The best method I was able to find was to remove the following columns: EIN, STATUS, CLASSIFICATION, and APPLICATION_TYPE.
+The next step is to compile, train and evaluate the model as shown below:
 
 ![Img3](https://github.com/maddenc33/Neural_Network_Charity_Analysis/blob/main/Images/Img3.png?raw=true)
 
-This increased our accuracy to an acceptable 75.4%
+This increased our accuracy to an acceptable 75.40%
 
 ![Img4](https://github.com/maddenc33/Neural_Network_Charity_Analysis/blob/main/Images/Img4.png?raw=true)
