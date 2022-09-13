@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-## Module 19 Challenge
+## Explore and implement neural networks using the TensorFlow platform in Python.
 
 #### by Christopher Madden
 
